@@ -1,16 +1,17 @@
-### Hi there 👋
+<h3>Tech Stack</h3>
 
-<!--
-**pesfahanian/pesfahanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  - &nbsp;
+    ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+    ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+    ![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=celery)
+- &nbsp;
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-InfluxDB-333333?style=flat&logo=influxdb)
+  ![InfluxDB](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+-  &nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+<br/>
