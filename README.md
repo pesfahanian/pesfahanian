@@ -3,6 +3,11 @@
 - &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   - &nbsp;
+    ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+  - &nbsp;
+    ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+    ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+  - &nbsp;
     ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
     ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
     ![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=celery)
