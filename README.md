@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parsa Esfahanian</h1>
 <h3 align="center">Backend Developer and Machine Learning Researcher</h3>
 
-- 📄 Know about my experiences [https://pesfahanian.github.io/](https://pesfahanian.github.io/)
+- 📄 Know about my experiences [pesfahanian.github.io](https://pesfahanian.github.io/)
+- Also see [hamgit.ir/pesfahanian96](https://hamgit.ir/pesfahanian96)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
